@@ -405,10 +405,12 @@ nav .fas {
     .header-text {
         display: none;
     }
-
+.logo{
+    width: 117px;
+}
     .header-text-small-screen {
         display: block;
-        margin-top: 70%;
+        margin-top: 50%;
         font-size: 20px;
     }
 
