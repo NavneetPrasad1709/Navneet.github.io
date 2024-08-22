@@ -409,13 +409,19 @@ nav .fas {
     .header-text-small-screen {
         display: block;
         margin-top: 70%;
-        font-size: 14px;
+        font-size: 20px;
     }
 
     .header-text-small-screen h1 {
         font-size: 25px;
         margin-top: 20px;
     }
+    .header-text-small-screen p {
+        font-size: 20px;
+        margin-top: 62px;
+    }
+
+
     
     .header-text-small-screen span {
         color: #ff004f;
@@ -487,3 +493,4 @@ nav .fas {
     margin-top: -40px;
     display: block;
 }
+
